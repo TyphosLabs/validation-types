@@ -1,5 +1,5 @@
 {
-  "name": "@orchardcorset/validation-types",
+  "name": "@typhoslabs/validation-types",
   "version": "0.0.1",
   "description": "Default validation classes to be attached to a validation base",
   "main": "index.js",
@@ -13,8 +13,8 @@
   "author": "Joshua Sullivan",
   "license": "ISC",
   "devDependencies": {
-    "@orchardcorset/validation-base": "^0.0.1",
-    "@orchardcorset/validation-invalid": "^0.0.1",
+    "@typhoslabs/validation-base": "^0.0.1",
+    "@typhoslabs/validation-invalid": "^0.0.1",
     "chai": "^3.5.0",
     "dirty-chai": "^1.2.2",
     "mocha": "^2.4.5"
